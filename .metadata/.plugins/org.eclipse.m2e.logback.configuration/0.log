@@ -1482,3 +1482,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.beanshell
 2018-10-02 16:03:21,407 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\testing1\src\main\resources
 2018-10-02 16:03:21,411 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-10-02 16:03:21,411 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\testing1\src\test\resources
+2018-10-02 17:17:04,051 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-02 17:17:04,051 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\mastering-selenium-testng\src\main\resources
+2018-10-02 17:17:04,053 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-02 17:17:04,054 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\mastering-selenium-testng\src\test\resources
+2018-10-02 17:17:53,231 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-02 17:17:53,232 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\mastering-selenium-testng\src\main\resources
+2018-10-02 17:17:53,235 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-02 17:17:53,236 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\mastering-selenium-testng\src\test\resources
