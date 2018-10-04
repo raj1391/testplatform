@@ -1490,3 +1490,13 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.beanshell
 2018-10-02 17:17:53,232 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\mastering-selenium-testng\src\main\resources
 2018-10-02 17:17:53,235 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-10-02 17:17:53,236 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\mastering-selenium-testng\src\test\resources
+2018-10-04 11:17:04,783 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-10-04 11:17:26,443 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-04 11:17:26,444 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\mastering-selenium-testng\src\main\resources
+2018-10-04 11:17:26,447 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-04 11:17:26,447 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\mastering-selenium-testng\src\test\resources
+2018-10-04 11:17:33,756 [Worker-10: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.masteringselenium.demo:mastering-selenium-testng:0.0.1-SNAPSHOT @ C:\Users\VAIO\eclipse-workspace\testing1\pom.xml.
+2018-10-04 11:17:34,952 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-04 11:17:34,953 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\testing1\src\main\resources
+2018-10-04 11:17:34,954 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-04 11:17:34,955 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\testing1\src\test\resources

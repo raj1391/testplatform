@@ -11,9 +11,6 @@ import org.testng.annotations.Test;
 public class NewTest {
 	WebDriver  driver;
 	
-	
-//	adding testing branch 
-	
  @BeforeMethod
 //    @BeforeTest
     
