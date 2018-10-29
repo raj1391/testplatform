@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25" started-at="2018-10-12T11:31:06Z" finished-at="2018-10-12T11:31:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25" started-at="2018-10-12T11:31:06Z" finished-at="2018-10-12T11:31:06Z">
+      <class name="TestNGConceptsNaveen.TestNGBasics">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNGConceptsNaveen.TestNGBasics@cb5822]" name="setup" is-config="true" duration-ms="9" started-at="2018-10-12T17:01:06Z" finished-at="2018-10-12T17:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:TestNGConceptsNaveen.TestNGBasics@cb5822]" name="launchBrowser" is-config="true" duration-ms="1" started-at="2018-10-12T17:01:06Z" finished-at="2018-10-12T17:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestNGConceptsNaveen.TestNGBasics@cb5822]" name="login" is-config="true" duration-ms="0" started-at="2018-10-12T17:01:06Z" finished-at="2018-10-12T17:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:TestNGConceptsNaveen.TestNGBasics@cb5822]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-10-12T17:01:06Z" finished-at="2018-10-12T17:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="getTitle()[pri:0, instance:TestNGConceptsNaveen.TestNGBasics@cb5822]" name="getTitle" duration-ms="6" started-at="2018-10-12T17:01:06Z" finished-at="2018-10-12T17:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:TestNGConceptsNaveen.TestNGBasics@cb5822]" name="logOut" is-config="true" duration-ms="2" started-at="2018-10-12T17:01:06Z" finished-at="2018-10-12T17:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:TestNGConceptsNaveen.TestNGBasics@cb5822]" name="closebrowser" is-config="true" duration-ms="1" started-at="2018-10-12T17:01:06Z" finished-at="2018-10-12T17:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="deleteAllCookies()[pri:0, instance:TestNGConceptsNaveen.TestNGBasics@cb5822]" name="deleteAllCookies" is-config="true" duration-ms="1" started-at="2018-10-12T17:01:06Z" finished-at="2018-10-12T17:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:TestNGConceptsNaveen.TestNGBasics@cb5822]" name="generateReport" is-config="true" duration-ms="1" started-at="2018-10-12T17:01:06Z" finished-at="2018-10-12T17:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- TestNGConceptsNaveen.TestNGBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -60,4 +60,5 @@ public class NewTest {
 	System.out.println("method call success");
 }
  
+	
 }
