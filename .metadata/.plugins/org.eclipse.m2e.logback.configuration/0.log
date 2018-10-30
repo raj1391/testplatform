@@ -3767,3 +3767,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2018-10-29 18:58:07,765 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\mastering-selenium-testng\src\main\resources
 2018-10-29 18:58:07,766 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-10-29 18:58:07,768 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\mastering-selenium-testng\src\test\resources
+2018-10-30 13:46:05,433 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-30 13:46:05,449 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\JavaTestingConcepts\src\main\resources
+2018-10-30 13:46:05,451 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-30 13:46:05,452 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\JavaTestingConcepts\src\test\resources
+2018-10-30 13:49:55,087 [Worker-173: Launching ArithmeticException] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-30 13:49:55,087 [Worker-173: Launching ArithmeticException] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\JavaTestingConcepts\src\main\resources
+2018-10-30 13:49:55,089 [Worker-173: Launching ArithmeticException] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-30 13:49:55,091 [Worker-173: Launching ArithmeticException] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAIO\eclipse-workspace\JavaTestingConcepts\src\test\resources
