@@ -11,6 +11,8 @@ import org.testng.annotations.Test;
 public class NewTest {
 	WebDriver  driver;
 	
+	WebElement ele=driver.findElement(By.className("identifierID"));
+	
 	
 //	adding testing branch 
 	

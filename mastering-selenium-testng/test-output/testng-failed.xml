@@ -3,14 +3,15 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="TestingConcepts.NavigateOptions">
+      <class name="TestNGConceptsNaveen.GoogleTest">
         <methods>
-          <include name="setup"/>
-          <include name="BrowserBack"/>
-          <include name="BrowserOpenQuora"/>
-          <include name="BrowserOpenFacebook"/>
+          <include name="googleLogoTest"/>
+          <include name="googleTitleTest"/>
+          <include name="mailLinkTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- TestingConcepts.NavigateOptions -->
+      </class> <!-- TestNGConceptsNaveen.GoogleTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

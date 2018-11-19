@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
+
 
 public class NewTest {
 	WebDriver  driver;
@@ -47,6 +47,7 @@ public class NewTest {
 	 WebElement element = driver.findElement(By.name("q"));
 	 element.sendKeys("Cheese!");
 	 element.submit();
+	 
 		  System.out.println("Login succsesfull");
 	  }
 
