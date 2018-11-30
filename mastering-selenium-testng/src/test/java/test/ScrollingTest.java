@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 
 public class ScrollingTest {
 
+	    WebDriver driver;
 	    @Test
 	    public void ByPixel() throws InterruptedException {
 			System.setProperty("webdriver.chrome.driver", "E:\\Download\\Chrome\\chromedriver_win32\\chromedriver.exe");
