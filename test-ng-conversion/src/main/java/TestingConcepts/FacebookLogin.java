@@ -38,7 +38,7 @@ public class FacebookLogin {
 		Thread.sleep(5000);
 		System.out.println("parsing usernmae.....");
 		
-		fb_passwd.sendKeys("multiverse@13");
+		fb_passwd.sendKeys("selenium!!!");
 		System.out.println("parsing passwrd.....");
 		
 		Thread.sleep(10000);
